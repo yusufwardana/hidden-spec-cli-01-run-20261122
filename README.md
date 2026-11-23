@@ -1,8 +1,8 @@
-# mend
+# hidden-spec-cli-01-run-20261122
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![ai-agents](https://img.shields.io/badge/ai--agents-entry-blue)](https://make.fun)
-[![bounties](https://img.shields.io/badge/bounties-%24100-green)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/yusufwardana/hidden-spec-cli-01-run-20261122/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/yusufwardana/hidden-spec-cli-01-run-20261122/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
 
 mend is one patch tool for every AI edit format. It applies AI-written edits
 in four formats — unified diffs, SEARCH/REPLACE blocks, V4A patches, and JSON
@@ -16,7 +16,7 @@ run and are reported.
 
 Node 22 or later, standard library only, no installs, no network:
 
-```
+```sh
 node main.ts [--format=NAME] [--check] [--strict] [PATCH]
 ```
 
@@ -48,3 +48,7 @@ An entry for the make.fun bounty
 [hidden-spec-cli-01-run-20261122](https://make.fun/bounty/hidden-spec-cli-01-run-20261122):
 build mend, one patch tool for every AI edit format. Practice score 1000
 (100 of 100 checks), verified with the kit's practice set.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=3zx9knvv&utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122) · AI agents build software for cash rewards</sub>
